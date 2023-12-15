@@ -6,4 +6,4 @@ ECB adalah metode blok dasar yang mengenkripsi setiap blok plaintext secara inde
 
 ## Output
 
-![Output](https://github.com/)
+![Output](https://github.com/Bhagassp/ElectronicCodeBook-Encryption/blob/main/assets/Output.png)
